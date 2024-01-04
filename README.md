@@ -1,2 +1,2 @@
 # gazszereles
-a very simple webpage for a professional mechanic
+It's a very simple webpage for a professional mechanic
